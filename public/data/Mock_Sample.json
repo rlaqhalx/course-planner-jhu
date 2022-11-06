@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Gateway Computing: JAVA",
+    "number": "500.112",
+    "term": "Fall 2021",
+    "status": "taken"
+  },
+  {
+    "title": "Intermediate Programming",
+    "number": "601.220",
+    "term": "Spring 2022",
+    "status": "taken"
+  },
+  {
+    "title": "Data Structures",
+    "number": "601.226",
+    "term": "Spring 2022",
+    "status": "taken"
+  },
+  {
+    "title": "Full-Stack JavaScript",
+    "number": "601.280",
+    "term": "Fall 2022",
+    "status": "enrolled"
+  },
+  {
+    "title": "Object-Oriented Software Engineering",
+    "number": "601.421",
+    "term": "Spring 2023",
+    "status": "interested"
+  }
+]
