@@ -2,7 +2,7 @@
 
 Course Planner with RESTful API and React app
 
-Deployed version: 
+Deployed version: https://rlaqhalx.github.io/course-planner-jhu/
 
 ## Description
 
